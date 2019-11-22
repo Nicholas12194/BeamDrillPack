@@ -3,7 +3,7 @@ The Purpose of this mod is to provide a very fast digging tool that is easy to o
 The lowest tier Beam Drill (Copper and Tin) can be crafted at an anvil using your starting pickaxe, a lens, and a glowstick.
 Each tier beyond that requires you to "Upgrade" a lower tier Beam Drill to get it.
 
-<<<New to 1.0.2!>>>
+<<<New to 1.0.3!>>>
 If you think the Tin and Copper Beam Drills are too powerful for their cost, you can choose to start with the Meteor Beam Drill instead. The recipe is 20 meteorite bars, 10 emeralds, and a lens, crafted at an anvil.
 
 
