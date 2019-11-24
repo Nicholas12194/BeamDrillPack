@@ -1,15 +1,15 @@
-The Beam Drill Pack includes 16 new drills modeled after the Laser Drill.
+The Beam Drill Pack includes 10-16 new drills (depending on your config settings), each modeled after the Laser Drill.
 The Purpose of this mod is to provide a very fast digging tool that is easy to obtain, but still follow the normal progression of the game by limiting what that tool can mine.
-The lowest tier Beam Drill (Copper and Tin) can be crafted at an anvil using your starting pickaxe, a lens, and a glowstick.
-Each tier beyond that requires you to "Upgrade" a lower tier Beam Drill to get it.
 
-<<<New to 1.0.3!>>>
-If you think the Tin and Copper Beam Drills are too powerful for their cost, you can choose to start with the Meteor Beam Drill instead. The recipe is 20 meteorite bars, 10 emeralds, and a lens, crafted at an anvil.
+By default, the lowest tier Beam Drill is crafted at an anvil using 20 meteorite bars, 10 emeralds, and a lens.
+If desired, you may enable EasyMode in the mod's config file to allow the crafting of tin and copper Beam Drills.
+These Beam Drills can be crafted at an anvil using your starting pickaxe, a glowstick, and a lens.
+Although they have low mining power, they can still mine much faster than anything pre-hardmode usually can.
 
+Once you have crafted a Beam Drill, you can upgrade it using various materials to increase mining power, range, and damage.
 
 If you like to dig fast and hate how sluggish the early pickaxes are, this is the mod for you.
 
 If you do not like digging fast or believe that the ability to do so should be earned, this is not the mod for you.
 
 Have fun, and hold on tight!
-
