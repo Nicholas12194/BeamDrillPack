@@ -40,6 +40,13 @@ namespace BeamDrillPack.Items
             recipe.AddTile(TileID.Anvils);
             recipe.SetResult(this);
             recipe.AddRecipe();
+
+            recipe = new ModRecipe(mod);
+            recipe.AddIngredient(mod, ("MeteorBeamDrill"));
+            recipe.AddIngredient(ItemID.HellstoneBar, 20);
+            recipe.AddTile(TileID.Anvils);
+            recipe.SetResult(this);
+            recipe.AddRecipe();
         }
 	}
 }

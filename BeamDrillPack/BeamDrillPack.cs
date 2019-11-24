@@ -4,8 +4,16 @@ namespace BeamDrillPack
 {
 	public class BeamDrillPack : Mod
 	{
-		public BeamDrillPack()
+
+        public override void Load()
+        {
+            Config.Load();
+        }
+
+        public BeamDrillPack()
 		{
-		}
-	}
+            
+        }
+
+    }
 }
