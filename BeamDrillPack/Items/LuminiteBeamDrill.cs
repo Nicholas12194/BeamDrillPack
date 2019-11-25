@@ -19,7 +19,7 @@ namespace BeamDrillPack.Items
             item.useTime = 0;
             item.useAnimation = 0;
             item.pick = 500;
-            item.axe = 100;
+            item.axe = 00;
             item.tileBoost = 50;
 
 

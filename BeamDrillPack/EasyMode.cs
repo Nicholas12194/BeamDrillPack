@@ -23,7 +23,7 @@ namespace BeamDrillPack
             item.useTime = 0;
             item.useAnimation = 0;
             item.pick = 40;
-            item.axe = 8;
+            item.axe = 0;
             item.tileBoost = 3;
 
         }
@@ -66,7 +66,7 @@ namespace BeamDrillPack
             item.useTime = 0;
             item.useAnimation = 0;
             item.pick = 40;
-            item.axe = 8;
+            item.axe = 0;
             item.tileBoost = 3;
 
         }
